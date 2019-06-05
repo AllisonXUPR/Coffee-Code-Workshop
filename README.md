@@ -2,35 +2,7 @@
 
 The BC Libraries’ Digital Scholarship Group hosts a series of coffee & code workshops each semester for faculty, students, and staff to learn more about digital tools and methodologies. The series, Coffee & Code, is open to the public. While no previous experience is required, certain workshops do have recommended prerequisites. We ask that participants sign up for sessions on the [digital scholarship site](https://ds.bc.edu).
 
+The Coffee & Code sessions are informal workshops that provide a hands-on introduction to the application of digital methods and tools to questions and needs that may arise from data, research, or scholarship in one’s discipline or field. These sessions will provide an opportunity for exploration, learning, and discussion.
+Please Note: Registration is requested. Unless otherwise noted, participants should bring their own laptop and will need to download software or access web-based tools.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AllisonXUPR/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
