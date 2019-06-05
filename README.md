@@ -1,6 +1,6 @@
-## Welcome to Coffee & Code Workshop
+## About Coffee & Code
 
-The BC Libraries’ Digital Scholarship Group hosts a series of workshops each semester for faculty, students, and staff to learn more about digital tools and methodologies. The series, Coffee & Code, is open to the public. While no previous experience is required, certain workshops do have recommended prerequisites. We ask that participants sign up for sessions on the [digital scholarship site](https://ds.bc.edu).
+The BC Libraries’ Digital Scholarship Group hosts a series of coffee & code workshops each semester for faculty, students, and staff to learn more about digital tools and methodologies. The series, Coffee & Code, is open to the public. While no previous experience is required, certain workshops do have recommended prerequisites. We ask that participants sign up for sessions on the [digital scholarship site](https://ds.bc.edu).
 
 
 ### Markdown
