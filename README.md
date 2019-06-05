@@ -1,8 +1,7 @@
-## About
+## Welcome to Coffee & Code Workshop
 
-You can use the [editor on GitHub](https://github.com/AllisonXUPR/webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The BC Libraries’ Digital Scholarship Group hosts a series of workshops each semester for faculty, students, and staff to learn more about digital tools and methodologies. The series, Coffee & Code, is open to the public. While no previous experience is required, certain workshops do have recommended prerequisites. We ask that participants sign up for sessions on the [digital scholarship site](https://ds.bc.edu).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
