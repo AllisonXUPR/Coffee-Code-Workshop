@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introduction to Tableau
+parent: Workshop materials
 nav_order: 4
 permalink: docs/Workshop materials
 ---
