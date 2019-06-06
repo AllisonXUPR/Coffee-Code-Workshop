@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Copyright
-parent: Workshop materials
+parent: Workshop Materials
 nav_order: 2
 ---
 
