@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Workshop materials
+title: Workshop Materials
 nav_order: 1
 has_children: true
-permalink: docs/Workshop materials
+permalink: docs/Workshop Materials
 ---
 
 # Workshop Materials
