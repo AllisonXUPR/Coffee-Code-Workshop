@@ -5,12 +5,11 @@ parent: Workshop Materials
 nav_order: 2
 ---
 
-# Workshop Materials
+# Introduction to Spatial Visualization
 {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
 {:toc}
 
