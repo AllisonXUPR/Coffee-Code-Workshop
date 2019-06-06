@@ -7,5 +7,6 @@ permalink: docs/Contact Us
 
 # Contact Us
 
-Thank you for being part of the BC Digital Scholarship community. If youwould like to learn more, don't hesitate to get in touch. Feel free to email us at [digschol-ggroup@bc.edu](mailto:digschol-ggroup@bc.edu) with any questions!
+Thank you for being part of the BC Digital Scholarship community. 
+If you would like to learn more, don't hesitate to get in touch. Feel free to email us at [digschol-ggroup@bc.edu](mailto:digschol-ggroup@bc.edu) with any questions!
 
