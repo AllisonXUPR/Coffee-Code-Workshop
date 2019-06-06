@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop Materials
+title: Workshop materials
 nav_order: 1
 has_children: true
 permalink: docs/Workshop materials
