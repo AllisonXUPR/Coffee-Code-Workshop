@@ -9,5 +9,10 @@ permalink: docs/Workshop Materials
 # Workshop Materials
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+Our workshop series are collaboratively developed by [our digital schlarship group](https://ds.bc.edu/people/). All of our workshop materials are hosted on GitHub and you'll find the 
+If you can't make it to a workshop live then you'll find the workshop material available here on our website and on GitHub.
+Suggest contact 
+
+
+
 {: .fs-6 .fw-300 }
