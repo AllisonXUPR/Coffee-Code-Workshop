@@ -5,5 +5,5 @@ parent: Workshop Materials
 nav_order: 2
 ---
 
-# Copy Right
+# Copyright
 
