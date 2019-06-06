@@ -11,7 +11,7 @@ permalink: docs/Workshop Materials
 
 Check out the workshop materials from our Coffee & Code Workshop Series!
 
-Our workshop materials are collaboratively developed by [our digital schlarship group](https://ds.bc.edu/people/).If your schedule does not permit you to attend our workshops, you will find the workshop materials available here on our website and on GitHub. 
+Our workshop materials are collaboratively developed by [our digital schlarship group](https://ds.bc.edu/people/). If your schedule does not permit you to attend our workshops, you will find the workshop materials available here on our website and on GitHub. 
 
 
 
