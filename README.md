@@ -7,3 +7,4 @@ The Coffee & Code sessions are informal workshops that provide a hands-on introd
 Please Note: Registration is requested. Unless otherwise noted, participants should bring their own laptop and will need to download software or access web-based tools.
 
 
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
